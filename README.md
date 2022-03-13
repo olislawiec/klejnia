@@ -1,10 +1,7 @@
-# Klejnia
+# Klejnia - nowa gra w BlackJack
 
-_klejnia dekrypszyn_
+_Opis Gry_
 
-Lorem Ipsum
-Kradniem Gipsum.
+Gra w blackjacka stworzona w pythonie.
 
 ---
-
-**This is readme for this repo**
